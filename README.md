@@ -28,6 +28,13 @@ Through this document we hope to organize and grow educational resources that he
 * Git
 * Bash
 
+### Open Source Links
+
+## Creating Node.js Modules
+* [How to Create and Publish Your First Node.js Module](https://medium.com/@jdaudier/how-to-create-and-publish-your-first-node-js-module-444e7585b738)
+
+[Checklist for your new Open Source JavaScript Project](https://ericdouglas.github.io/2015/09/27/checklist-for-your-new-open-source-javascript-project/)
+
 ### Education Resources
 
 * [Lynda.com](https://www.lynda.com/)
